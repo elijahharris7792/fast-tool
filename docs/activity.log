@@ -1,4 +1,4 @@
 # Development Activity Log
-Last updated: 2026-06-18T12:01:12Z
-Entry: perf: reduce memory allocations in main loop execution
-Sequence: 48/95
+Last updated: 2026-06-22T11:20:13Z
+Entry: docs: document configuration parameters and environment variables
+Sequence: 49/95
